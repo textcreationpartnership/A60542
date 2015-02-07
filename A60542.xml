@@ -229,10 +229,13 @@ yet it does not <hi>divide confusedly, or Tinker-like, instead of mending one ho
                <l>Or like the Damask-Rose you see.</l>
             </lg>
             <p>Fye upon it! <hi>Observer,</hi> I believe thou observest, that they will not Rime, which is the only thing necessary to Verses. Therefore (good <hi>Hudibras</hi>) give me leave to retreat to Prose.</p>
-            <figure>
-               <head>
-                  <hi>A Diagramm</hi> For the Uniting of Speculative and Practicall Musick; By rendring the Order and Proportions of the Intervalls<g ref="char:punc">▪</g> into Practick notes upon their own constant lines &amp; spaces.</head>
-            </figure>
+            <p>
+               <pb facs="tcp:60619:10"/>
+               <figure>
+                  <head>
+                     <hi>A Diagramm</hi> For the Uniting of Speculative and Practicall Musick; By rendring the Order and Proportions of the Intervalls<g ref="char:punc">▪</g> into Practick notes upon their own constant lines &amp; spaces.</head>
+               </figure>
+            </p>
             <p>
                <pb n="13" facs="tcp:60619:11"/>And here I intend to give an ac<g ref="char:EOLhyphen"/>count of this <hi>Whirlegig,</hi> because I think it does something turn and hindg Speculative and Practical Knowledg together: so that we will a little look into the grounds of Musick, and steer our course accordingly.</p>
             <p>Mr. <hi>Morley</hi> (otherwise than the Ancients did) in his <hi>Introduction,</hi> p 3. instructs his Scholar <hi>Philomathes, That there were in Musick but six Notes, which are called by those several names, Ut. Re, Mi, Fa, Sol La,</hi> (And why but Six, I leave the <hi>Observer</hi> to vindicate.) Now He, and their <hi>Nomenclator Guido,</hi> being both in a mistake for that, have (as some think) caused a great deal of confusion, by directing men to follow that in practise, which stands upon a false foundation, even against the very nature of the thing.</p>
@@ -485,14 +488,16 @@ own opinion: immediately adding, <hi>and from this I make my ex<g ref="char:EOLh
                <p>
                   <pb n="42" facs="tcp:60619:26"/>The second Proposition needs only to be proved, which is done in this following Scheam.</p>
                <pb facs="tcp:60619:26"/>
-               <figure>
-                  <head>A Scheme To demonstrate, that by the movement of the old Cliffs, G sol re ut, A<gap reason="illegible" resp="#OXF" extent="1 letter">
-                        <desc>•</desc>
-                     </gap>la mi re, B<g ref="char:punc">▪</g> fa b mi, C sol fa ut; are in five Different Places at the same time</head>
-               </figure>
-               <figure>
-                  <head>The Essay allows them but once Different when thay stand irregularly upon their leiger lines out of their own Octaves as the Observer Sherveth in this following Scheme</head>
-               </figure>
+               <p>
+                  <figure>
+                     <head>A Scheme To demonstrate, that by the movement of the old Cliffs, G sol re ut, A<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>la mi re, B<g ref="char:punc">▪</g> fa b mi, C sol fa ut; are in five Different Places at the same time</head>
+                  </figure>
+                  <figure>
+                     <head>The Essay allows them but once Different when thay stand irregularly upon their leiger lines out of their own Octaves as the Observer Sherveth in this following Scheme</head>
+                  </figure>
+               </p>
                <p>
                   <pb n="44" facs="tcp:60619:27"/>Now with all my power I have en<g ref="char:EOLhyphen"/>deavoured rightly to understand the <hi>Observer</hi>'s chief Objection, laid it down in his own words; and if he gets any thing by it, let him save his <hi>Lapis ca<g ref="char:EOLhyphen"/>laminaris,</hi> and put it in his eye.</p>
                <p>Here I expected he should have quarrel'd me, for placing <hi>G sol re ut,</hi> in the line, which he does in space: but that appears so natural in the <hi>Diagram,</hi> and I had so pleaded the justice of it, <hi>Essay p.</hi> 45. that he takes not the least notice of it.</p>
